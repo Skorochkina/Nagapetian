@@ -1,0 +1,13 @@
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\obj\Debug\HR_Reference_System.csproj.AssemblyReference.cache
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\obj\Debug\HR_Reference_System.Properties.Resources.resources
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\obj\Debug\HR_Reference_System.csproj.GenerateResource.cache
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\obj\Debug\HR_Reference_System.csproj.CoreCompileInputs.cache
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\bin\Debug\HR_Reference_System.exe.config
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\bin\Debug\HR_Reference_System.exe
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\bin\Debug\HR_Reference_System.pdb
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\bin\Debug\System.Data.SQLite.dll
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\bin\Debug\System.Data.SQLite.xml
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\obj\Debug\HR_Refer.01E8D6CF.Up2Date
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\obj\Debug\HR_Reference_System.exe
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\obj\Debug\HR_Reference_System.pdb
+C:\Users\Skoro\OneDrive\Рабочий стол\дипломы 2026\Нагапетян\HR_Reference_System\HR_Reference_System\obj\Debug\HR_Reference_System.FormMain.resources
